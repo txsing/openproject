@@ -1038,3 +1038,6 @@ en:
       card: 'Cards'
       list: 'Table'
       timeline: 'Gantt'
+
+    invite_user_modal:
+      title: "Invite User"
